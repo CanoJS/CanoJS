@@ -155,15 +155,21 @@ Full e-commerce platform featuring product management, shopping cart functionali
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=CanoJS&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanoJS&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img
+  src="https://streak-stats.demolab.com?user=CanoJS&theme=github-dark-blue&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CanoJS&theme=github-dark-blue&hide_border=true" />
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=CanoJS&theme=github-compact&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
