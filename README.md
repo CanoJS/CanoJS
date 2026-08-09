@@ -8,19 +8,15 @@
   <a href="https://jesuscano.dev">
     <img src="https://img.shields.io/badge/Portfolio-jesuscano.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/jesuscanoghst/">
     <img src="https://img.shields.io/badge/LinkedIn-Jesús_Cano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:jesuscanomendez91@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Building+scalable+backend+systems;Creating+modern+full-stack+applications;Working+with+Cloud+%26+DevOps;Exploring+AI+Agents+%26+Developer+Tools"
-/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Creating+full-stack+web+applications;Working+with+Cloud+%26+DevOps;Exploring+AI+Agents+%26+Developer+Tools" />
 
 </div>
 
@@ -28,148 +24,134 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on backend development, APIs, cloud infrastructure and modern web applications.
+I'm a **Full-Stack Developer** with a strong focus on backend development, APIs, cloud infrastructure, and modern web applications.
 
-I enjoy building systems that are **scalable, maintainable and easy to evolve**, from backend services and databases to complete full-stack platforms.
+I enjoy building systems that are **scalable, maintainable, and easy to evolve**, from backend services and databases to complete web platforms.
 
-- 🔧 Building **REST APIs, backend services and authentication systems**
-- ☁️ Working with **Google Cloud, Docker and Kubernetes**
-- ⚛️ Building modern interfaces with **React, Next.js and TypeScript**
-- 🗄️ Working with **PostgreSQL, Supabase, Firebase, MySQL and SQL Server**
-- 🤖 Exploring **AI Agents, MCP, LLM integrations and developer automation**
-- 🎓 Computer Systems Engineering student
-- 🌎 Open to **remote and international opportunities**
-- 🎮 Interested in gaming, PC hardware and technology
+```ts
+const jesus = {
+  role: "Full-Stack Developer",
+  focus: ["Backend", "Cloud", "AI"],
+  languages: ["TypeScript", "JavaScript", "Python", "C#", "PHP"],
+  backend: ["Node.js", "Deno", "REST APIs", "OpenAPI", "ASP.NET Core"],
+  frontend: ["React", "Next.js", "Tailwind CSS"],
+  databases: ["PostgreSQL", "Supabase", "Firestore", "MySQL", "SQL Server"],
+  cloud: ["Google Cloud", "Docker", "Kubernetes"],
+  currentlyExploring: ["AI Agents", "MCP", "LLM Integrations"]
+};
+```
+
+* 🔧 Building **REST APIs, backend services, authentication systems and database-driven applications**
+* ☁️ Working with **Google Cloud, Docker and Kubernetes**
+* ⚛️ Building modern interfaces with **React, Next.js and TypeScript**
+* 🗄️ Working mainly with **PostgreSQL, Supabase and Firebase**
+* 🤖 Exploring **AI agents, MCP, automation and AI-powered developer tools**
+* 🎓 Computer Systems Engineering student
+* 🌎 Open to **remote and international opportunities**
+* 🎮 Interested in gaming, PC hardware and technology
 
 ---
 
-## ⚡ Tech Stack
+## ⚡ Core Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,deno,react,nextjs,tailwind,postgres,supabase,firebase,gcp,docker,kubernetes,git,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,deno,react,nextjs,tailwind,postgres,supabase,firebase,gcp,docker,kubernetes,git,github&perline=7" />
 
-<br/><br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,php,mysql,html,css&perline=7" />
+### Also experienced with
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,cs,dotnet,php,mysql,html,css&perline=8" />
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 My personal developer portfolio showcasing my experience, projects and technical background.
 
 **Tech:** Next.js · React · TypeScript
 
-[![Visit Portfolio](https://img.shields.io/badge/Visit_Portfolio-000000?style=for-the-badge&logo=vercel)](https://jesuscano.dev)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-jesuscano.dev-000000?style=flat-square\&logo=vercel)](https://jesuscano.dev)
 
 ---
 
-### 🏋️ Athlete & Coach Platform
+## 🏋️ Athlete & Coach Platform
 
-A full-stack platform designed for athletes and coaches to manage:
-
-- Training programs
-- Exercises
-- Weight and repetition tracking
-- Rest periods
-- Athlete progress
-- Coach-managed routines
+A platform designed for athletes and coaches to manage training programs, exercises, weights, repetitions, rest periods and workout progress.
 
 **Tech:** React · TypeScript · PostgreSQL · Supabase
 
+```text
+Athlete
+   │
+   ├── Training Plans
+   ├── Exercises
+   ├── Weight & Reps Tracking
+   └── Progress
+
+Coach
+   │
+   ├── Athlete Management
+   ├── Custom Programs
+   └── Performance Tracking
+```
+
 ---
 
-### 🤖 AI & Developer Tools
+## 🤖 AI & Developer Tools
 
-Projects and experiments focused on modern AI development workflows.
+Experiments and projects focused on modern AI development workflows.
 
-**Exploring:**
+**Topics I'm exploring:**
 
-- AI Agents
-- Model Context Protocol
-- Multi-agent systems
-- LLM integrations
-- AI orchestration
-- Developer automation
+* AI Agents
+* Model Context Protocol (MCP)
+* Multi-agent systems
+* LLM integrations
+* AI orchestration
+* Developer automation
 
 ---
 
-### 🛒 E-Commerce Platform
+## 🛒 E-Commerce Platform
 
-A complete e-commerce application with:
-
-- Product management
-- Shopping cart
-- Customer accounts
-- Order processing
-- Online payments
+Full e-commerce platform featuring product management, shopping cart functionality, customer accounts, order processing and online payments.
 
 **Tech:** PHP · MySQL · Bootstrap · PayPal API
 
 ---
 
-## 🎯 Main Interests
+# 🧠 What I Like Building
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center">
-
-### ⚙️ Backend
-
-REST APIs  
-Authentication  
-PostgreSQL  
-Service Architecture  
-
-</td>
-
-<td align="center">
-
-### ⚛️ Full-Stack
-
-React  
-Next.js  
-TypeScript  
-Tailwind CSS  
-
-</td>
-
-<td align="center">
-
-### ☁️ Cloud
-
-Google Cloud  
-Docker  
-Kubernetes  
-CI/CD  
-
-</td>
-
-<td align="center">
-
-### 🤖 AI
-
-AI Agents  
-MCP  
-LLMs  
-Automation  
-
-</td>
-</tr>
-</table>
-
-</div>
+```text
+                    SOFTWARE
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+     Backend        Full-Stack       Cloud
+        │              │              │
+   REST APIs        React          Google Cloud
+   Services         Next.js        Docker
+   Auth             TypeScript     Kubernetes
+   PostgreSQL       Tailwind       CI/CD
+        │
+        └──────────────┐
+                       │
+                      AI
+                       │
+               Agents · MCP · LLMs
+```
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub
 
 <div align="center">
 
@@ -178,32 +160,34 @@ Automation
   alt="GitHub Streak"
 />
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=CanoJS&theme=github-compact&hide_border=true&area=true"
-  alt="GitHub Contribution Graph"
+  alt="GitHub Activity Graph"
 />
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in discussing **software development, backend architecture, cloud technologies, AI and interesting projects**.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/jesuscanoghst/">
-  <img src="https://img.shields.io/badge/LinkedIn-Jesús_Cano-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jesús_Cano-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/jesuscanoghst/)
 
-<a href="https://jesuscano.dev">
-  <img src="https://img.shields.io/badge/Portfolio-jesuscano.dev-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-jesuscano.dev-000000?style=for-the-badge\&logo=vercel)](https://jesuscano.dev)
 
-<a href="mailto:jesuscanomendez91@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Email](https://img.shields.io/badge/Email-jesuscanomendez91%40gmail.com-EA4335?style=for-the-badge\&logo=gmail)](mailto:jesuscanomendez91@gmail.com)
 
 </div>
 
@@ -211,10 +195,8 @@ Automation
 
 <div align="center">
 
-### Build. Learn. Improve. Repeat. 🚀
+### 💻 Build. Learn. Improve. Repeat.
 
-<img
-  src="https://komarev.com/ghpvc/?username=CanoJS&style=flat-square&label=Profile+Views"
-/>
+<img src="https://komarev.com/ghpvc/?username=CanoJS&style=flat-square&label=Profile+Views" />
 
 </div>
